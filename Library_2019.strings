@@ -7,18 +7,23 @@
 */
 "library_title" = "المكتبة";
 "library_read" = "قراءة";
-"library_play" = "تشغيل";
+"library_play" = "سماع";
 
 /* for book list */
 "qrn_recitation" = "التلاوات القرآنية";
 "tfsr" = "التفاسير";
 "tfsr_moyaser" = "التفسير الميسر";
+"tfsr_rest" = "التفاسير الأخرى";
 "tfsr_ghareeb" = "الميسر في غريب القرآن الكريم";
 "lit" = "الكتب العلمية";
 "tagweed_MCQ" = "أسئلة كتاب التجويد الميسر اختيار من متعدد";
+"tagweed_true_false" = "أسئلة كتاب التجويد الميسر صح وخطأ";
 "tagweed_moyser" = "التجويد الميسر";
+"tagweed_moyasar" = "التجويد الميسر";
 "stopping_rules" = "قواعد الوقف ورموزه وأقسامه وتطبيقاته";
-"trn" = "الترجمات";
+"kitabat_mushaf" = "كتابة المصحف";
+
+"trn" = "ترجمات معاني القرآن الكريم";
 "trn_de" = "الترجمة الألمانية";
 "trn_en" = "الترجمة  الإنجليزية";
 "trn_crh" = "الترجمة التركية";
@@ -28,17 +33,37 @@
 "trn_tur" = "الترجمة التركية";
 "trn_amz" = "الترجمة الأمازيغية";
 "trn_ger" = "الترجمة الألمانية";
+"trn_urdo" = "الترجمة الأردية";
+"trn_sp" = "الترجمة الإسبانية";
+"trn_haus" = "الترجمة الهوساوية";
+
+"trn_folani" = "الترجمة الفولانية";
+"trn_nibalia" = "الترجمة النيبالية";
+"trn_indon" = "الترجمة الإندونيسية";
+"trn_chinees" = "الترجمة الصينية";
 
 /*library categories for mcq*/
-"questiones" = "الاسئلة";
-"topic" = "موضوع";
+"questiones" = "رقم السؤال";
+"topic" = "الموضوع";
 
 /* mcq screen */
 "show" = "عرض";
 "clear" = "مسح";
 
-"deleteMessage" = "هل أنت متأكد من البدأ مجدد؟";
+"deleteMessage" = "هل أنت متأكد من البدء مجدداً؟";
+"delete_book_Message" = "أنت علي وشك حذف الملف النصي، هل أنت متأكد؟";
+"delete_tafseer_Message" = "أنت علي وشك حذف قاعدة البيانات ، هل أنت متأكد؟";
+"delete_audio_Message" = "أنت علي وشك حذف الملف الصوتي، هل أنت متأكد؟";
 
-"view_book" = "قراءة";
-"download_book" = "تحميل الكتاب";
-"delete_book" = "حذف الكتاب";
+"view_book" = "قراءة الملف النصي";
+"download_book" = "تحميل الملف النصي";
+"download_tafseer" = "تحميل قاعدة البيانات";
+"delete_book" = "حذف الملف النصي";
+"delete_tafseer" = "حذف قاعدة البيانات";
+"tafseer_nodata" = "لا يوجد بيانات";
+"tafseer_notExist" = "الرجاء تحميل الملف النصي من المكتبة لتتمكن من الانتقال للصفحة";
+"tafseer_downloaded" = "تمَّ تحميل التفاسير الأخرى، انتقل لصفحة المصحف";
+
+"play_audio" = "تشغيل الملف الصوتي";
+"download_audio" = "تحميل الملف الصوتي";
+"delete_audio" = "حذف الملف الصوتي";
