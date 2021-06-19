@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Quran
+
+  Created by Bassem Abbas on 9/18/18ا
+  Copyright © 2018 Ibtikar Technologies, Co. Ltd. All rights reserved.
+*/
+
+"tabBar.index_title"="الفهرس";
+"tabBar.bookmark_title"="المرجعيات";
+"tabBar.werd_title"="الورد";
+"tabBar.library_title"="المكتبة";
+"tabBar.settings_title"="الإعدادات";
+"shared.ok_button"="تم";
+"shared.no_data_message"="لا توجد بيانات";
+"lbl_choose_mushaf" = "اختر مصحفاً للمتابعة";
+"shared.download"= "التحميل جارٍ";
+"shared.unarchive"= "حفظ ...";
+"choose_mushaf.start_download"="بدء التحميل";
+"choose_mushaf.cancel_download"="إلغاء التحميل";
+"choose_mushaf.stop_download"="ايقاف التحميل";
+"choose_mushaf.resume_download"="استكمال التحميل";
+"choose_mushaf.wait_download"="انتظار بدء التحميل";
+
+
+"share_app" = "شارك التطبيق";
+"about_app" = "عن التطبيق";
+"setting_title" = "الإعدادات";
+
+"repeat" = "التكرار";
+
+"bottomBar_From" = "من";
+"bottomBar_To" = "الى";
+"bottomBar_choose_aya" = "اختر آية";
+"bottomBar_choose_soora" = "اختر سورة";
+"bottomBar_choose" = "اختر";
+"bottomBar_aya_title" = "الآية";
+"bottomBar_page" = "الصفحة";
+"bottomBar_soora" = "السورة";
+"bottomBar_range_soora" = "سورة";
+"bottomBar_custom" = "النطاق";
+"bottomBar_tlawa" = "تلاوة";
+"bottomBar_msg_choose_qarea" = "من فضلك اختر قارئ";
+"bottomBar_player_error" = "حدث خطأ";
+"bottomBar_choose_soora_error" = "من فضلك اختر سورة";
+
+"bottomBar_choose_qaraa" = "اختر قارئاً";
+
+"yes" = "نعم";
+"no" = "لا";
+"hizb_title" = "الحزب";
+"goz2_title" = "الجزء";
+"in_aya" = "في الآية";
+
+"app_name" = "مصحف المدينة النبوية";
+"help" = "دليل المستخدم";
