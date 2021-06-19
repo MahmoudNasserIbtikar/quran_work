@@ -1,0 +1,94 @@
+/* 
+  Werd.strings
+  Quran
+
+  Created by omnia on 3/4/19.
+  Copyright © 2019 Ibtikar Technologies, Co. Ltd. All rights reserved.
+*/
+
+/*khatma tab main scren*/
+"navigation.label.title" = "الوِرْد القرآني";
+"tab.label.title.sura_reminder" = "التذكير بالسور";
+"tab.label.title.khatma" = "الختمة";
+"tab.label.title.statistics" = "الإحصائيات";
+"khatma.list.sura.label.name" = "سورة";
+"khatma.list.aya.label.name" = "آية";
+"khatma.list.from.label.name" = "من";
+"khatma.list.to.label.name" = "إلى";
+"khatma.list.Date.label.name" = "آخر وقت";
+"khatma.list.pop.title" = "لقد إنتهيت من قراءة هذه الختمة";
+"khatma.list.pop.close_button" = "اغلاق";
+
+/*add khatma screen*/
+"khatmaNavigation.label.title" = "إنشاء ختمة";
+"khatma.label.title.plan_name" = "اسم الختمة";
+"khatma.label.title.according_to_companions" = "وفق تحزيب الصحابة";
+"khatma.label.title.start_date" = "تاريخ البدء";
+"khatma.label.title.end_date" = "تاريخ الانتهاء";
+"khatma.label.title.reminder_time" = "وقت التذكير";
+"khatma.button.title.save" = "حفظ";
+"khatma.button.title.clear" = "مسح";
+"khatma.clear_alert.message" = "هل أنت متأكد؟ سيتم حذف جميع البيانات";
+"khatma.toolBar.done" = "تم";
+"khatma.label.error.message" = "إسم الختمة يجب أن يكون حرفين على الأقل";
+"khatma.alert.settings.message" = "الاشعارات غير مفعلة:";
+"khatma.alert.settings.message1" = "١-اختر اعدادات";
+"khatma.alert.settings.message2" = "٢-اختر اشعارات";
+"khatma.alert.settings.message3" = "٣-اضغط تفعيل";
+"khatma.alert.settings.notNow" = "لاحقا";
+"khatma.alert.settings.settings" = "اعدادات";
+
+/*edit khatma screen*/
+"editKhatmaNavigation.label.title" = "تعديل الختمة";
+"editKhatma.save.pop.title" = "هل ترغب في تعديل الختمة";
+
+/*khatma no data view*/
+"khatmaNoData.press.label.title" = " اضغط على علامة";
+"khatmaNoData.plan.label.title" = "لإضافة ختمة جديدة";
+
+/*khatma notification message*/
+"khatma.notification.message1" = "فضلا قم بقرائة الورد اليومي";
+"khatma.notification.in" = "في";
+"khatma.notification.to" = "إلى";
+"khatma.notification.from" = "من";
+"khatma.notification.ayah" = "الآيه";
+"khatma.notification.sura" = "سورة";
+"khatma.notification.khatma" = "في ختمتك اليومية";
+"khatma.notification.title" = "التذكر بالختمه";
+"khatma.notification.body" = "انقر لمتابعة نفاصيل الختمة";
+
+/*werd Notification center*/
+"notificationCenterNavigation.label.title" = "الإشعارات";
+"notificationCenter.khatma_reminder.label.title" = "تذكير بالختمه";
+"notificationCenter.sura_reminder.label.title" = "تذكير بالسور";
+"notificationCenter.notification.badge.title" = "٩٩+";
+"notificationCenter.notification.noReading" = "ليس لديك قرأة هذا اليوم";
+
+/*werd tracking khatma screen*/
+"trackingKhatma.pop.label.title" = "قم بتسجيل معدل قراءتك";
+"trackingKhatma.pop.save_button.title" = "حفظ";
+"trackingKhatma.pop.cancel_button.title" = "إلغاء";
+"trackingKhatma.pop.aya_label.title" = "آية";
+"trackingKhatma.pop.sura_label.title" = "سورة";
+"trackingKhatma.pop.alayah_label.title" = "الآية";
+
+/*add Surah Reminder screen*/
+"surahReminderNavigation.label.title" = "التذكير بالسور";
+"surahReminder.label.title.reminder_name" = "نص التذكير";
+"surahReminder.label.title.reminder_type" = "نوع التذكير";
+"surahReminder.label.title.day" = "اليوم";
+"surahReminder.label.title.reminder_time" = "وقت التذكير";
+"surahReminder.button.title.save" = "حفظ";
+"surahReminder.button.title.clear" = "مسح";
+"surahReminder.typePicker.title.daily" = "يومي";
+"surahReminder.typePicker.title.weekly" = "اسبوعي";
+"surahReminder.dayPicker.title.saturday" = "السبت";
+"surahReminder.dayPicker.title.sunday" = "الاحد";
+"surahReminder.dayPicker.title.monday" = "الاثنين";
+"surahReminder.dayPicker.title.tuesday" = "الثلاثاء";
+"surahReminder.dayPicker.title.wednesday" = "الاربعاء";
+"surahReminder.dayPicker.title.thursday" = "الخميس";
+"surahReminder.dayPicker.title.friday" = "الجمعة";
+"surahReminder.add" = "أضف";
+"surahReminder.choosenSooras" = "السور المختارة";
+"surahReminder.notification.body" = "انقر لمتابعة نفاصيل التذكير بالسور";
