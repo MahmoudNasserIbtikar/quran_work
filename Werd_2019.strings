@@ -12,7 +12,9 @@
 "tab.label.title.khatma" = "الختمة";
 "tab.label.title.statistics" = "الإحصائيات";
 "khatma.list.sura.label.name" = "سورة";
+"khatma.list.sura.label.full_name" = "السورة";
 "khatma.list.aya.label.name" = "آية";
+"khatma.list.aya.label.full_name" = "الآية";
 "khatma.list.from.label.name" = "من";
 "khatma.list.to.label.name" = "إلى";
 "khatma.list.Date.label.name" = "آخر وقت";
@@ -29,37 +31,40 @@
 "khatma.button.title.save" = "حفظ";
 "khatma.button.title.clear" = "مسح";
 "khatma.clear_alert.message" = "هل أنت متأكد؟ سيتم حذف جميع البيانات";
+"khatma.khatma.delete" = "أنت علي وشك حذف الختمة, هل أنت متأكد؟";
 "khatma.toolBar.done" = "تم";
 "khatma.label.error.message" = "إسم الختمة يجب أن يكون حرفين على الأقل";
-"khatma.alert.settings.message" = "الاشعارات غير مفعلة:";
-"khatma.alert.settings.message1" = "١-اختر اعدادات";
-"khatma.alert.settings.message2" = "٢-اختر اشعارات";
+"khatma.alert.settings.message" = "الإشعارات غير مفعلة:";
+"khatma.alert.settings.message1" = "١-اختر إعدادات";
+"khatma.alert.settings.message2" = "٢-اختر إشعارات";
 "khatma.alert.settings.message3" = "٣-اضغط تفعيل";
-"khatma.alert.settings.notNow" = "لاحقا";
-"khatma.alert.settings.settings" = "اعدادات";
+"khatma.alert.settings.notNow" = "لاحقاً";
+"khatma.alert.settings.settings" = "إعدادات";
 
 /*edit khatma screen*/
 "editKhatmaNavigation.label.title" = "تعديل الختمة";
 "editKhatma.save.pop.title" = "هل ترغب في تعديل الختمة";
+"editKhatma.save.pop.end_date_changed" = "هل ترغب في تعديل تاريخ الختمة";
 
 /*khatma no data view*/
 "khatmaNoData.press.label.title" = " اضغط على علامة";
 "khatmaNoData.plan.label.title" = "لإضافة ختمة جديدة";
 
 /*khatma notification message*/
-"khatma.notification.message1" = "فضلا قم بقرائة الورد اليومي";
+"khatma.notification.message1" = "فضلاً قم بقراءة الورد اليومي";
 "khatma.notification.in" = "في";
 "khatma.notification.to" = "إلى";
 "khatma.notification.from" = "من";
-"khatma.notification.ayah" = "الآيه";
+"khatma.notification.ayah" = "الآية";
 "khatma.notification.sura" = "سورة";
+"khatma.notification.number" = "رقم";
 "khatma.notification.khatma" = "في ختمتك اليومية";
-"khatma.notification.title" = "التذكر بالختمه";
+"khatma.notification.title" = "التذكر بالختمة";
 "khatma.notification.body" = "انقر لمتابعة نفاصيل الختمة";
 
 /*werd Notification center*/
 "notificationCenterNavigation.label.title" = "الإشعارات";
-"notificationCenter.khatma_reminder.label.title" = "تذكير بالختمه";
+"notificationCenter.khatma_reminder.label.title" = "تذكير بالختمة";
 "notificationCenter.sura_reminder.label.title" = "تذكير بالسور";
 "notificationCenter.notification.badge.title" = "٩٩+";
 "notificationCenter.notification.noReading" = "ليس لديك قرأة هذا اليوم";
@@ -70,6 +75,8 @@
 "trackingKhatma.pop.cancel_button.title" = "إلغاء";
 "trackingKhatma.pop.aya_label.title" = "آية";
 "trackingKhatma.pop.sura_label.title" = "سورة";
+"trackingKhatma.pop.aya_label.full_title" = "الآية";
+"trackingKhatma.pop.sura_label.full_title" = "السورة";
 "trackingKhatma.pop.alayah_label.title" = "الآية";
 
 /*add Surah Reminder screen*/
@@ -81,14 +88,16 @@
 "surahReminder.button.title.save" = "حفظ";
 "surahReminder.button.title.clear" = "مسح";
 "surahReminder.typePicker.title.daily" = "يومي";
-"surahReminder.typePicker.title.weekly" = "اسبوعي";
+"surahReminder.typePicker.title.weekly" = "أسبوعي";
 "surahReminder.dayPicker.title.saturday" = "السبت";
-"surahReminder.dayPicker.title.sunday" = "الاحد";
+"surahReminder.dayPicker.title.sunday" = "الأحد";
 "surahReminder.dayPicker.title.monday" = "الاثنين";
 "surahReminder.dayPicker.title.tuesday" = "الثلاثاء";
-"surahReminder.dayPicker.title.wednesday" = "الاربعاء";
+"surahReminder.dayPicker.title.wednesday" = "الأربعاء";
 "surahReminder.dayPicker.title.thursday" = "الخميس";
 "surahReminder.dayPicker.title.friday" = "الجمعة";
 "surahReminder.add" = "أضف";
 "surahReminder.choosenSooras" = "السور المختارة";
 "surahReminder.notification.body" = "انقر لمتابعة نفاصيل التذكير بالسور";
+"surahReminder.plan.label.title" = "لإضافة التذكير بالسورة";
+"surahReminder.delete" = "أنت علي وشك حذف التذكير, هل أنت متأكد؟";
